@@ -1,6 +1,7 @@
 # Loan Default Prediction
 
-O notebook terá como finalidade a prática de estudos de machine learning, afim de classificar se o cliente é 'default'(inadimplente) ou não nas parcelas do empréstimo da financeira. Será dividido em:
+O notebook tem como finalidade a prática de estudos de machine learning, afim de classificar se o cliente é 'default'(inadimplente) ou não com dados de uma financeira. 
+Está dividido em:
 
  * Importação bibliotecas e dataset;
  * Tratamento e limpeza dos dados;
