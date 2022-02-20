@@ -1,7 +1,10 @@
 # Loan Default Prediction
 
-Notebook desenvolvido sob dados de clientes de uma financeira com o objetivo de predizer se o cliente vai ou não "dar calote" no empréstimo.
-Aqui utilizaremos o termo comercial de inadiplência = default. 
+O notebook terá como finalidade a prática de estudos de machine learning, afim de classificar se o cliente é 'default'(inadimplente) ou não nas parcelas do empréstimo da financeira. Será dividido em:
 
-Notebook está todo desenvolvido no google colaboratory, em linguagem `python`. Separado com:
- * Introdução - Tópicos - problematização e conclusão.
+Importação bibliotecas e dataset;
+Tratamento e limpeza dos dados;
+EDA;
+Feature Engineering;
+Modelagem;
+Métricas e conclusão.
